@@ -3,8 +3,4 @@
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sitemas na FATEC Ipiranga;
 - 💞️ Colaboro com meu projeto de TCC "Cartão Vermelho" e demais atividades acadêmicas e pessoais.
 
-
-<!---
-AtallaSaid/AtallaSaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://c.tenor.com/N0cLcEiVZhMAAAAd/psicopato-wesley.gif
